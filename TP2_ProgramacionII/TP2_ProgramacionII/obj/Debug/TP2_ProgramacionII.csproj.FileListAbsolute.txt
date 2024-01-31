@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\bin\Debug\TP2_ProgramacionII.exe.config
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\bin\Debug\TP2_ProgramacionII.exe
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\bin\Debug\TP2_ProgramacionII.pdb
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.exe
+C:\Users\santi\OneDrive\Escritorio\TP2_ProgramacionII\TP2_ProgramacionII\obj\Debug\TP2_ProgramacionII.pdb

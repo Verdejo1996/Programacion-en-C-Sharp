@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\bin\Debug\Practica_Parcial.exe.config
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\bin\Debug\Practica_Parcial.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\bin\Debug\Practica_Parcial.pdb
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_Parcial\Practica_Parcial\obj\Debug\Practica_Parcial.pdb

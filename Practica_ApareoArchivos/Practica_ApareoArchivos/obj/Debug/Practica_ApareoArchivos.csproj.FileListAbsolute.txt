@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\bin\Debug\Practica_ApareoArchivos.exe.config
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\bin\Debug\Practica_ApareoArchivos.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\bin\Debug\Practica_ApareoArchivos.pdb
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_ApareoArchivos\Practica_ApareoArchivos\obj\Debug\Practica_ApareoArchivos.pdb

@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\bin\Debug\Conversor_Temperaturas.exe.config
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\bin\Debug\Conversor_Temperaturas.exe
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\bin\Debug\Conversor_Temperaturas.pdb
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.exe
+C:\Users\santi\OneDrive\Escritorio\Conversor_Temperaturas\Conversor_Temperaturas\obj\Debug\Conversor_Temperaturas.pdb

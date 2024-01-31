@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\bin\Debug\PreguntasRespuestas.exe.config
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\bin\Debug\PreguntasRespuestas.exe
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\bin\Debug\PreguntasRespuestas.pdb
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.exe
+C:\Users\santi\OneDrive\Escritorio\PreguntasRespuestas\PreguntasRespuestas\obj\Debug\PreguntasRespuestas.pdb

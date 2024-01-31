@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\bin\Debug\Practica_Pilas.exe.config
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\bin\Debug\Practica_Pilas.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\bin\Debug\Practica_Pilas.pdb
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.exe
+C:\Users\santi\OneDrive\Escritorio\Practica_Pilas\Practica_Pilas\obj\Debug\Practica_Pilas.pdb

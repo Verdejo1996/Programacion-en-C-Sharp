@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\bin\Debug\ContarLibrosPorAutor.exe.config
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\bin\Debug\ContarLibrosPorAutor.exe
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\bin\Debug\ContarLibrosPorAutor.pdb
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.exe
+C:\Users\santi\OneDrive\Escritorio\ContarLibrosPorAutor\ContarLibrosPorAutor\obj\Debug\ContarLibrosPorAutor.pdb

@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\bin\Debug\Preguntas_Y_Respuestas.exe.config
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\bin\Debug\Preguntas_Y_Respuestas.exe
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\bin\Debug\Preguntas_Y_Respuestas.pdb
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.exe
+C:\Users\santi\OneDrive\Escritorio\Preguntas_Y_Respuestas\Preguntas_Y_Respuestas\obj\Debug\Preguntas_Y_Respuestas.pdb

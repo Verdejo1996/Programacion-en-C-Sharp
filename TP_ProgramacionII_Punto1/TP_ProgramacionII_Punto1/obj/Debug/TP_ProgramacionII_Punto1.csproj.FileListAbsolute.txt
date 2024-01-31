@@ -1,0 +1,11 @@
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\bin\Debug\TP_ProgramacionII_Punto1.exe.config
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\bin\Debug\TP_ProgramacionII_Punto1.exe
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\bin\Debug\TP_ProgramacionII_Punto1.pdb
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.exe
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto1\TP_ProgramacionII_Punto1\obj\Debug\TP_ProgramacionII_Punto1.pdb

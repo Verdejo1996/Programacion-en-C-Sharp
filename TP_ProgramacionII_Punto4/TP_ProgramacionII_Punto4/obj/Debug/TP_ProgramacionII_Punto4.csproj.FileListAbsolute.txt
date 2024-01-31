@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\bin\Debug\TP_ProgramacionII_Punto4.exe.config
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\bin\Debug\TP_ProgramacionII_Punto4.exe
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\bin\Debug\TP_ProgramacionII_Punto4.pdb
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.exe
+C:\Users\santi\OneDrive\Escritorio\TP_ProgramacionII_Punto4\TP_ProgramacionII_Punto4\obj\Debug\TP_ProgramacionII_Punto4.pdb

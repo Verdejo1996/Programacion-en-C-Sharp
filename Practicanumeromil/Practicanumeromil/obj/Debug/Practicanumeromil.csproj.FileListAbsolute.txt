@@ -1,0 +1,10 @@
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\bin\Debug\Practicanumeromil.exe.config
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\bin\Debug\Practicanumeromil.exe
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\bin\Debug\Practicanumeromil.pdb
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.exe
+C:\Users\santi\OneDrive\Escritorio\Practicanumeromil\Practicanumeromil\obj\Debug\Practicanumeromil.pdb

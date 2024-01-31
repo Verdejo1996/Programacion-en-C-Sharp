@@ -1,0 +1,20 @@
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.exe.config
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.exe
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.pdb
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.exe
+C:\Users\santi\OneDrive\Escritorio\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.pdb
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.exe.config
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.exe
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\bin\Debug\Ta_Te_Ti.pdb
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.exe
+C:\Users\santi\OneDrive\Escritorio\Licenciatura en Produccion de Simuladores y Videojuegos\Primer Año\Segundo Cuatrimestre\Programacion II\Verdejo_Santiago_ProgramacionII_TPN1\Ta_Te_Ti\Ta_Te_Ti\obj\Debug\Ta_Te_Ti.pdb
